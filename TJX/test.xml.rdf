@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://www.w3.org/ns/adms#"
+    xmlns:j.2="http://www.w3.org/2004/02/skos/core#"
+    xmlns:j.3="http://schema.org/"
+    xmlns:j.4="http://www.w3.org/ns/dcat#"
+    xmlns:j.5="http://xmlns.com/foaf/0.1/">
+  <j.4:Distribution rdf:about="http://data.europa.eu/88u/distribution/430d95e5-d59c-4b4e-9fa7-856ac162b5d7">
+    <j.0:title xml:lang="fr-t-en-t0-mtec">Consultation TARIC
+</j.0:title>
+    <j.0:title xml:lang="bg-t-en-t0-mtec">Консултация по ТАРИК
+</j.0:title>
+    <j.0:license>
+      <j.0:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/COM_REUSE"/>
+    </j.0:license>
+    <j.0:description xml:lang="hu-t-en-t0-mtec">Az intézkedések keresése az árukód és a származási ország/rendeltetési ország között. Földrajzi területek keresése (ISO-kód, országnév, országcsoport-kód). Rendeletek (Hivatalos Lap).</j.0:description>
+    <j.0:title xml:lang="sv-t-en-t0-mtec">Taric-samråd
+</j.0:title>
+    <j.0:description xml:lang="fi-t-en-t0-mtec">Hae toimenpiteitä tavaroiden koodilla ja alkuperämaalla/määrämaalla. Maantieteellisten alueiden haku (ISO-koodi, maan nimi, maaryhmäkoodi). Asetukset (virallinen lehti)</j.0:description>
+    <j.0:description xml:lang="ro-t-en-t0-mtec">Căutați măsuri la codul mărfurilor și țara de origine/destinație.
+Căutare zone geografice (cod ISO, nume de țară, cod grup de țări).
+Regulamente (Jurnalul Oficial).
+</j.0:description>
+    <j.0:description xml:lang="en">Search for measures under Goods code and	Country of origin/destination. Search for geographical areas (ISO code, Country name, Country group code) . Regulations (Official Journal).  </j.0:description>
+    <j.0:title xml:lang="hr-t-en-t0-mtec">Savjetovanje s TARIC-om
+</j.0:title>
+    <j.0:title xml:lang="sl-t-en-t0-mtec">Posvetovanje TARIC
+</j.0:title>
+    <j.4:accessURL>
+      <j.5:Document rdf:about="http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en">
+        <j.5:topic rdf:resource="http://data.europa.eu/88u/dataset/eu-customs-tariff-taric"/>
+        <j.3:url>http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en</j.3:url>
+      </j.5:Document>
+    </j.4:accessURL>
+    <j.0:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2016-11-28T10:01:05.504049+02:00</j.0:issued>
+    <j.0:title xml:lang="lv-t-en-t0-mtec">TARIC apspriešanās
+</j.0:title>
+    <j.0:description xml:lang="sl-t-en-t0-mtec">Iskanje ukrepov pod oznako blaga in državo porekla/namembno državo. Iskanje geografskih območij (oznaka ISO, ime države, oznaka skupine držav). Uredbe (Uradni list).</j.0:description>
+    <j.1:status>
+      <j.2:Concept rdf:about="http://publications.europa.eu/resource/authority/dataset-status/COMPLETED"/>
+    </j.1:status>
+    <j.0:description xml:lang="pt-t-en-t0-mtec">Procurar medidas ao abrigo do código das mercadorias e do país de origem/destino. Pesquisa de zonas geográficas (código ISO, nome do país, código do grupo de países).
+Regulamentos (Jornal Oficial).</j.0:description>
+    <j.0:title xml:lang="cs-t-en-t0-mtec">Konzultace TARIC
+</j.0:title>
+    <j.0:description xml:lang="cs-t-en-t0-mtec">Vyhledávání opatření pod kódem zboží a zemí původu/místem určení. Vyhledávání zeměpisných oblastí (kód ISO, název země, kód skupiny zemí). Nařízení (Úřední věstník).</j.0:description>
+    <j.0:description xml:lang="ga-t-en-t0-mtec">Cuardaigh bearta faoi Chód Earraí agus faoi Thír thionscnaimh/ceann scríbe.
+Cuardaigh limistéir gheografacha (cód ISO, Ainm Tíre, Cód Tíre).
+Rialacháin (Iris Oifigiúil).
+</j.0:description>
+    <j.0:title xml:lang="fi-t-en-t0-mtec">Taric-kuuleminen
+</j.0:title>
+    <j.0:description xml:lang="bg-t-en-t0-mtec">Търсене на мерки по код на стоките и държава на произход/местоназначение. Търсене на географски зони (код по ISO, име на държавата, код на групата държави). Регламенти (Официален вестник).</j.0:description>
+    <j.0:title xml:lang="ro-t-en-t0-mtec">Consultare TARIC
+</j.0:title>
+    <j.0:title xml:lang="it-t-en-t0-mtec">Consultazione TARIC
+</j.0:title>
+    <j.0:title xml:lang="hu-t-en-t0-mtec">TARIC-konzultáció
+</j.0:title>
+    <j.0:description xml:lang="et-t-en-t0-mtec">Otsige meetmeid kaubakoodi ja päritoluriigi/sihtriigi all.
+Geograafiliste piirkondade otsing (ISO-kood, riigi nimi, riigirühma kood).
+Määrused (Euroopa Liidu Teataja).
+</j.0:description>
+    <j.0:description xml:lang="lv-t-en-t0-mtec">Meklēt pasākumus saskaņā ar preču kodu un izcelsmes valsti/galamērķi. Ģeogrāfisko apgabalu meklēšana (ISO kods, valsts nosaukums, valsts grupas kods). Noteikumi (Oficiālais Vēstnesis).</j.0:description>
+    <j.4:mediaType>
+      <j.0:MediaType rdf:about="http://www.iana.org/assignments/media-types/text/html"/>
+    </j.4:mediaType>
+    <j.0:title xml:lang="lt-t-en-t0-mtec">TARIC konsultacijos
+</j.0:title>
+    <j.0:format>
+      <j.0:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    </j.0:format>
+    <j.0:title xml:lang="da-t-en-t0-mtec">Taric-høring
+</j.0:title>
+    <j.0:description xml:lang="da-t-en-t0-mtec">Søg efter foranstaltninger under varekode og oprindelses-/bestemmelsesland. Søg efter geografiske områder (ISO-kode, landenavn, landegruppekode). Forordninger (EU-Tidende).</j.0:description>
+    <j.0:description xml:lang="lt-t-en-t0-mtec">Priemonių paieška pagal prekių kodą ir kilmės šalį/paskirties šalį. Geografinių vietovių paieška (ISO kodas, šalies pavadinimas, šalies grupės kodas). Reglamentai (Oficialusis leidinys).</j.0:description>
+    <j.0:title xml:lang="sk-t-en-t0-mtec">Konzultácia TARIC
+</j.0:title>
+    <j.0:title xml:lang="en">TARIC Consultation</j.0:title>
+    <j.0:description xml:lang="es-t-en-t0-mtec">Buscar medidas bajo el código de mercancías y país de origen/destino. Buscar zonas geográficas (código ISO, nombre del país, código del grupo de países).
+Reglamentos (Diario Oficial).</j.0:description>
+    <j.0:description xml:lang="de-t-en-t0-mtec">Suche nach Maßnahmen unter Warencode und Ursprungsland/Bestimmungsland. Suche nach geografischen Gebieten (ISO-Code, Ländername, Ländergruppencode).
+Verordnungen (Amtsblatt).</j.0:description>
+    <j.0:title xml:lang="de-t-en-t0-mtec">TARIC-Konsultation
+</j.0:title>
+    <j.0:description xml:lang="it-t-en-t0-mtec">Cerca misure sotto il codice merci e il paese di origine/destinazione. Ricerca di aree geografiche (codice ISO, nome del paese, codice del gruppo di paese).
+Regolamenti (Gazzetta ufficiale).</j.0:description>
+    <j.4:downloadURL rdf:resource="http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en"/>
+    <j.0:title xml:lang="pt-t-en-t0-mtec">Consulta TARIC
+</j.0:title>
+    <j.0:description xml:lang="el-t-en-t0-mtec">Αναζήτηση μέτρων στην ενότητα «Κωδικός εμπορευμάτων» και χώρα προέλευσης/προορισμού. Αναζήτηση γεωγραφικών περιοχών (κωδικός ISO, όνομα χώρας, κωδικός ομάδας χωρών). Κανονισμοί (Επίσημη Εφημερίδα).</j.0:description>
+    <j.0:identifier>http://data.europa.eu/88u/distribution/7657970b-992e-4c4c-9052-53b20dc00e6c</j.0:identifier>
+    <j.0:title xml:lang="es-t-en-t0-mtec">Consulta TARIC
+</j.0:title>
+    <j.0:description xml:lang="fr-t-en-t0-mtec">Rechercher des mesures sous le code marchandises et le pays d’origine/de destination. Recherche de zones géographiques (code ISO, nom du pays, code du groupe de pays).
+Règlements (Journal officiel).</j.0:description>
+    <j.0:description xml:lang="sk-t-en-t0-mtec">Vyhľadať opatrenia v rámci kódu tovaru a krajiny pôvodu/cieľa.
+Vyhľadávanie zemepisných oblastí (kód ISO, názov krajiny, kód skupiny krajín).
+Nariadenia (úradný vestník).
+</j.0:description>
+    <j.0:title xml:lang="ga-t-en-t0-mtec">Comhairliúchán TARIC
+</j.0:title>
+    <j.0:title xml:lang="nl-t-en-t0-mtec">Taric Raadpleging
+</j.0:title>
+    <j.0:description xml:lang="nl-t-en-t0-mtec">Zoeken naar maatregelen onder goederencode en land van oorsprong/bestemming. Zoeken naar geografische gebieden (ISO-code, landnaam, landengroepcode). Verordeningen (Publicatieblad).</j.0:description>
+    <j.0:description xml:lang="hr-t-en-t0-mtec">Pretraživanje mjera pod oznakom robe i zemljom podrijetla/odredištima. Pretraživanje zemljopisnih područja (oznaka ISO, naziv zemlje, oznaka skupine zemalja). Uredbe (Službeni list).</j.0:description>
+    <j.0:title xml:lang="pl-t-en-t0-mtec">Konsultacje w sprawie TARIC
+</j.0:title>
+    <j.0:title xml:lang="et-t-en-t0-mtec">TARICi konsultatsioonid
+</j.0:title>
+    <j.0:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/WEB_SERVICE"/>
+    <j.0:title xml:lang="el-t-en-t0-mtec">Διαβούλευση TARIC
+</j.0:title>
+    <j.0:description xml:lang="mt-t-en-t0-mtec">Fittex miżuri taħt il-Kodiċi tal-Merkanzija u l-Pajjiż ta’ oriġini/destinazzjoni. Fittex żoni ġeografiċi (kodiċi ISO, Isem il-pajjiż, Kodiċi tal-grupp ta’ pajjiż). Regolamenti (Ġurnal Uffiċjali).</j.0:description>
+    <j.0:description xml:lang="pl-t-en-t0-mtec">Szukaj środków w ramach kodu towarów i kraju pochodzenia/miejsca przeznaczenia.
+Wyszukaj obszary geograficzne (kod ISO, nazwa państwa, kod grupy kraju).
+Rozporządzenia (Dziennik Urzędowy).
+</j.0:description>
+    <j.0:description xml:lang="sv-t-en-t0-mtec">Sök efter åtgärder under Varukod och ursprungsland/bestämmelseland. Sök geografiska områden (ISO-kod, landsnamn, landskod). Förordningar (Europeiska unionens officiella tidning).</j.0:description>
+    <j.0:title xml:lang="mt-t-en-t0-mtec">Konsultazzjoni TARIC
+</j.0:title>
+  </j.4:Distribution>
+</rdf:RDF>
